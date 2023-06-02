@@ -1,11 +1,5 @@
 # Real Estate Management System 🏠
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/yourusername/real-estate-management-system)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/real-estate-management-system)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/real-estate-management-system)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/real-estate-management-system)
-![GitHub license](https://img.shields.io/github/license/yourusername/real-estate-management-system)
-
 Real Estate Management System is a Windows Forms application that simplifies the management of real estate information, including agents, contracts, clients, and properties. Built with C# and MySQL, this powerful tool streamlines your real estate business processes and improves efficiency.
 
 ![Real Estate Management System Demo](demo.gif)
@@ -21,6 +15,8 @@ Real Estate Management System is a Windows Forms application that simplifies the
 ## Installation 💻
 
 1. Clone the repository:
+2. Ready up your database and connect the database
+3. Run the application
 
 ```bash
-git clone https://github.com/yourusername/real-estate-management-system.git
+git clone https://github.com/bugrakaann/RealEstateManagementSystem.git
